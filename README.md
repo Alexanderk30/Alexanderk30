@@ -6,13 +6,13 @@
 
 ---
 
-## 🧠 What I Build
+## What I Build
 
 I design and ship **agentic AI systems** — multi-agent pipelines, MCP infrastructure, and production-grade tooling built on the Anthropic SDK. My focus is on the intersection of real-world deployment and frontier model capabilities.
 
 ---
 
-## 🔧 Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -25,13 +25,13 @@ I design and ship **agentic AI systems** — multi-agent pipelines, MCP infrastr
 
 ---
 
-## 🛠 Tech & Tools
+## Tech & Tools
 
 `Python` `TypeScript` `Anthropic SDK` `MCP` `Multi-agent Systems` `RAG` `FastAPI` `ChromaDB` `Git`
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alex-kimmig/)
 - 🐙 [GitHub](https://github.com/Alexanderk30)
