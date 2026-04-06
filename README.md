@@ -8,7 +8,7 @@
 
 ## What I Build
 
-I design and ship **agentic AI systems** — multi-agent pipelines, MCP infrastructure, and production-grade tooling built on the Anthropic SDK. My focus is on the intersection of real-world deployment and frontier model capabilities.
+I design and ship **agentic AI systems** : multi-agent pipelines, MCP infrastructure, and production grade tooling built on the Anthropic SDK. My focus is on the intersection of real world deployment and frontier model capabilities.
 
 ---
 
