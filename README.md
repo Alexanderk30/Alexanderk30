@@ -15,13 +15,13 @@ I design and ship **agentic AI systems** : multi-agent pipelines, MCP infrastruc
 ## Featured Projects
 
 | Project | Description | Stack |
-|---|---|---|
-| [ClaudeMCP](https://github.com/Alexanderk30/ClaudeMCP) | Multi-tenant MCP proxy gateway with per-tenant auth, ACLs, rate limiting & 80+ tests | Python |
-| [agent-mesh](https://github.com/Alexanderk30/agent-mesh) | Multi-agent orchestration runtime with typed message passing & supervisor routing | Python |
-| [mcp-registry](https://github.com/Alexanderk30/mcp-registry) | Self-hosted MCP server registry with tool discovery, health checks & metrics dashboard | TypeScript |
-| [OpenclawDerivativeTrading](https://github.com/Alexanderk30/OpenclawDerivativeTrading) | 8-agent options trading system with ML signal validation via Alpaca | Python |
+|---------|-------------|-------|
+| [frontier-RL-context-correction](https://github.com/Alexanderk30/frontier-RL-context-correction) | Eval environment reproducing "acknowledged-but-stale" tool-call failures: model commits to a correction, then acts on stale context anyway. 655 trials across Haiku 4.5, Sonnet 4.6, GPT-5.4, Gemini 3.1 Pro. | Python |
+| [ClaudeMCP](https://github.com/Alexanderk30/ClaudeMCP) | Multi-tenant MCP proxy gateway with per-tenant auth, ACLs, rate limiting, and 80+ tests | Python |
+| [agent-mesh](https://github.com/Alexanderk30/agent-mesh) | Multi-agent orchestration runtime with typed message passing and supervisor routing | Python |
+| [mcp-registry](https://github.com/Alexanderk30/mcp-registry) | Self-hosted MCP server registry with tool discovery, health checks, and metrics dashboard | TypeScript |
 | [eval-harness](https://github.com/Alexanderk30/eval-harness) | YAML-based pipeline for evaluating multi-step agentic Claude workflows with a judge model | Python |
-| [research-agent](https://github.com/Alexanderk30/research-agent) | Self-hostable deep research pipeline: parallel search, deduplication & cited synthesis | Python |
+| [research-agent](https://github.com/Alexanderk30/research-agent) | Self-hostable deep research pipeline with parallel search, deduplication, and cited synthesis | Python |
 
 ---
 
